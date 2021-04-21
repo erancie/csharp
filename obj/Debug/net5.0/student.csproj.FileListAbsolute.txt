@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.AssemblyInfo.cs
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SIT-221\student\bin\Debug\net5.0\student.exe
+C:\Users\User\Desktop\SIT-221\student\bin\Debug\net5.0\student.deps.json
+C:\Users\User\Desktop\SIT-221\student\bin\Debug\net5.0\student.runtimeconfig.json
+C:\Users\User\Desktop\SIT-221\student\bin\Debug\net5.0\student.runtimeconfig.dev.json
+C:\Users\User\Desktop\SIT-221\student\bin\Debug\net5.0\student.dll
+C:\Users\User\Desktop\SIT-221\student\bin\Debug\net5.0\ref\student.dll
+C:\Users\User\Desktop\SIT-221\student\bin\Debug\net5.0\student.pdb
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.dll
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\ref\student.dll
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.pdb
+C:\Users\User\Desktop\SIT-221\student\obj\Debug\net5.0\student.genruntimeconfig.cache
